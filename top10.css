@@ -1,0 +1,27 @@
+.grilla{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.panel{
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: 18%;
+}
+h1{
+    
+    color: var(--rosado-equis);
+    font-size: var(--lg);
+
+}
+.fgrilla{
+    width: 80%;
+    height: 75%;
+}
+.titulo1{
+    text-align: center;
+}

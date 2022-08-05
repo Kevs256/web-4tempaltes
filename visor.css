@@ -1,0 +1,27 @@
+.reproduccion{
+    display: grid;
+    place-items: center;
+    padding: 0px;
+}
+.repro{
+    width: 90%;
+    height: 95%;
+}
+.herramientas{
+    background-color: grey;
+    margin: 20px;
+    height: 45px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.play{
+    width: 40px;
+    justify-self: center;
+}
+.barrita{
+    height: 8px;
+    width: 75%;
+    background-color: #ffffff;
+    border-radius: 20px;
+    align-self: center;
+}
